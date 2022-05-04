@@ -6,7 +6,7 @@ data "aws_caller_identity" "current" {}
 
    filter {
      name   = "owner-alias"
-     values = ["amazon"]
+     values = ["313242119113"]
    }
 
 
